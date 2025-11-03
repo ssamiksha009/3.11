@@ -1,0 +1,46 @@
+inp files paths:
+templates\CDTire\P2_L1\1_axi_p2_xpl.inp
+templates\CDTire\P2_L1\1_axi_p2.inp
+templates\CDTire\P2_L1\2_rev_p2_l1_0_xpl.inp
+templates\CDTire\P2_L1\2_rev_p2_l1_0.inp
+templates\CDTire\P2_L1\2_rev_p2_l1_nc1.inp
+templates\CDTire\P2_L1\2_rev_p2_l1_pc2.inp
+templates\CDTire\P2_L1\2_rev_p2_l4_0.inp
+templates\CDTire\P2_L1\9_long_brk_p2_l1_0_60.inp
+templates\CDTire\P2_L1\9_long_trac_p2_l1_0_60.inp
+templates\CDTire\P2_L1\10_lat_p2_l1_0_60.inp
+templates\CDTire\P2_L1\10_lat_p2_l1_0_160.inp
+templates\CDTire\P2_L1\10_lat_p2_l1_pc2_60.inp
+templates\CDTire\P2_L1\12_xpl_p1_l1_0_30.inp
+templates\CDTire\P2_L1\12_xpl_p1_l1_0_60.inp
+templates\CDTire\P2_L1\12_xpl_p1_l1_0_90.inp
+
+
+supporting files paths:
+templates\CDTire\0_axi_mesh_xpl.4np
+templates\CDTire\0_axi_mesh.inp
+templates\CDTire\cleat_15x15.inp
+templates\CDTire\cleat_20x20.inp
+templates\CDTire\deflection.py
+templates\CDTire\element_sets.inc
+templates\CDTire\elements_sets.inc
+templates\CDTire\extract_element_sets.py
+templates\CDTire\freeroll.f
+templates\CDTire\freeroll.inp
+templates\CDTire\Hyperelastic_2.0_0425_fabric.inc
+templates\CDTire\Hyperelastic_2.0_0425_rubber_mod.inc
+templates\CDTire\od_growth.py
+templates\CDTire\parameters.inc
+templates\CDTire\rev.inp
+templates\CDTire\rim_complete_rev.inc
+templates\CDTire\rim_complete.inc
+templates\CDTire\road_cleat.inp
+templates\CDTire\road_cleat15x15.inc
+templates\CDTire\road_cleat20x20.inc
+templates\CDTire\road.inp
+
+
+some example project paths after creating a project in CDTire protocol and copied to the project's directory:
+projects\demo7_CDTire\P2_L1\1_axi_p2_xpl.inp
+projects\demo7_CDTire\od_growth.py
+projects\demo7_CDTire\od_growth.py
